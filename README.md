@@ -1,1 +1,1 @@
-# erudit.github.io
+# erudit.io
