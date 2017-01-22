@@ -2,7 +2,7 @@
 .box{
     overflow: hidden;
     padding-left: 6%;
-    text-align: left;
+    /*text-align: left;*/
     padding-top: 6%;
     padding-right: 6%;
 }
@@ -10,13 +10,15 @@
     font-family: Helvetica;
     font-weight: bold;
     font-size: 4vw;
+    text-align: center;
     
 }
 #mean{
     padding-top: 30px;
     font-family: Helvetica;
-    font-size: 2vw;
+    font-size: 2ch;
     margin-left: 2%;
+    text-align: left;
 }
 #forward{
     font-size: 110px;
